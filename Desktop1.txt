@@ -1,0 +1,10 @@
+Ip: 54.164.25.8
+DNS: ip-172-31-95-163.ec2.internal
+
+Keys pdp.pem
+
+user:: ubuntu
+password:: ubuntu@123
+
+ssh-ikeyname
+ssh-ipdp.pem
